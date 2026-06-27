@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: bharosa
+server:
+  port: 8080
+
+# Database connectivity configuration
+
+# Task
+# Dependency, CRUD operations, userControllers (4 API/Endpoints), 4 Service Methods, 4 repositories (.save()/.saveAll())
+# Pagination
+
+# Java 17, Springboot extension pack from vmware
+
+# 
